@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c5962c0e308cf9a9e658bae7",
+  "owner": "afhjsjkqr",
+  "repo": "page-e724238986fb9a3ac9b20875",
+  "title": "FastPass",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e724238986fb9a3ac9b20875",
+      "a": "FastPass",
+      "b": "2027官方最新地址导航",
+      "entity": "FastPass",
+      "brand": "FastPass",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c1ef0b893b3e452a78d0e3366e349193ea096b3ad2f8f1dca10449535630d099",
+      "content": {
+        "primary_entity": "FastPass",
+        "keyword1": "FastPass",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，桌面、移动与路由器各有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "选好套餐，下载客户端并导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 FastPass",
+          "AI_DESCRIPTION": "，以品牌服务为基础，提供设备选择、订阅配置与套餐对比的简洁指引，帮助不同需求用户快速上手。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量与订阅周期三个角度了解 FastPass。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合轻度使用；旗舰版每月300GB、5台设备，增加IPLC专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_2": "选择套餐前先统计常用设备数量：手机、电脑、平板同时在线，3台、5台或20台对应不同版本。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付¥150、旗舰版年付¥350、团队版年付¥850，长期使用可优先按年订阅。",
+          "AI_FEATURE_TITLE_1": "套餐规格清晰",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "FastPass 提供多档海外加速套餐，覆盖基础到团队使用场景，按设备数量与流量需求选择合适版本，并按客户端配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按设备数量选择版本",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版支持多设备与定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量需求与同时在线设备数，在基础版、旗舰版和团队版中选定适合自己的套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备数量与客户端类型的要求，确认手机、电脑或路由器是否在支持范围内。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅信息，完成后连接节点即可正常使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "FastPass 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机加电脑的日常组合；旗舰版 5 台覆盖更多终端，团队版 20 台可满足小型工作室需求。",
+          "AI_FAQ_ANSWER_2": "在客户端中粘贴订阅链接后更新配置即可，Clash、Shadowrocket、v2rayN 与 sing-box 都支持订阅导入，具体操作可参考各客户端文档。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB。流量按自然月重置，日常浏览与流媒体使用可参考对应档位选择。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线与游戏加速优化，节点池更全，适合对延迟和稳定性有要求的场景；基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_5": "年付方案比月付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合确定长期使用的个人或团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "各套餐的月流量分别是多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些能力？",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--z4qz16bgof602bkeao74b.com",
+    "host": "xn--z4qz16bgof602bkeao74b.com"
+  },
+  "file_hashes": {
+    "index.html": "b4c7e1b98863994e3843a13fc4eb8c61b96e2942c9d7b258049acd259c0b1956",
+    "sitemap.xml": "40f599f9c4be1cd8a4bc2cbc8845547ca0949374135e1cb1d1576c09873429d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "42fb5eb4758259403987daf7d71a9385c7275943d7923516a6a1ccdcd53c01b8",
+    "robots.txt": "3ae79f0cb79df61c937c140d729987af08bb9e825654d210699a02b2deb752c1",
+    "f75c865c3411542697caec8e8096cfd9.txt": "38714e9796b416edb4d41924ebe32fd9a8655b14b3701f14b0ccb2b2f486bac8"
+  },
+  "revision": "e5e08eba96ade64576f1f2f4478597911831c330fd0a416e26aa6b00f627e944"
+}
